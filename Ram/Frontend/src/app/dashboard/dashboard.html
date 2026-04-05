@@ -1,0 +1,77 @@
+<div class="dashboard-container">
+
+  <!-- Header -->
+  <div class="header">
+    <h1>🏥 Admin Dashboard</h1>
+    <p>Manage all appointments</p>
+  </div>
+
+  <!-- Message -->
+  <div class="message-box" *ngIf="message">
+    {{ message }}
+  </div>
+
+  <!-- Loading -->
+  <div class="loading" *ngIf="loading">
+    Loading appointments...
+  </div>
+
+  <!-- Table -->
+  <div class="table-wrapper" *ngIf="!loading">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Appointment ID</th>
+          <th>User ID</th>
+          <th>Doctor ID</th>
+          <th>Date & Time</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let appt of appointments; let i = index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ appt.appointmentId }}</td>
+          <td>{{ appt.userId }}</td>
+          <td>{{ appt.doctorId }}</td>
+          <td>{{ appt.dateTime | date: 'dd MMM yyyy, hh:mm a' }}</td>
+          <td>
+            <span [class]="'badge ' + getStatusClass(appt.status)">
+              {{ appt.status }}
+            </span>
+          </td>
+          <td class="actions">
+            <button
+              class="btn-approve"
+              (click)="approve(appt.appointmentId)"
+              [disabled]="appt.status !== 'Pending'">
+              ✅ Approve
+            </button>
+            <button
+              class="btn-reject"
+              (click)="reject(appt.appointmentId)"
+              [disabled]="appt.status === 'Completed'">
+              ❌ Reject
+            </button>
+            <button
+              class="btn-complete"
+              (click)="complete(appt.appointmentId)"
+              [disabled]="appt.status !== 'Approved'">
+              ✔️ Complete
+            </button>
+          </td>
+        </tr>
+
+        <!-- Empty State -->
+        <tr *ngIf="appointments.length === 0">
+          <td colspan="7" style="text-align:center; padding: 20px;">
+            No appointments found.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
