@@ -1,0 +1,20 @@
+<div class="container">
+  <h2>Book Appointment 🏥</h2>
+
+  <select [(ngModel)]="selectedDoctorId">
+    <option value="">Select Doctor</option>
+    <option *ngFor="let d of doctors" [value]="d.doctorId">
+      {{d.name}} - {{d.specialization}}
+    </option>
+  </select>
+
+  <input type="datetime-local" [(ngModel)]="selectedDateTime" />
+
+  <button (click)="book()">Book Appointment</button>
+
+  <p>{{message}}</p>
+
+  <hr>
+
+  <a routerLink="/my">View My Appointments</a>
+</div>

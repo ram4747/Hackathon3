@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCL\\TRail\\AppointmentService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\appointmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\appointmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|d:\\hcl\\trail\\appointmentservice1\\appointmentservice\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9D5570-9943-4369-828B-F64B79236924}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AppointmentService\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:38:25.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "AppointmentService\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:38:04.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "AppointmentService\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:36:52.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Services\\IAppointmentService.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "AppointmentService\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:36:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Program.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Program.cs",
+              "RelativeToolTip": "AppointmentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:18:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentService\\appsettings.json",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\appsettings.json",
+              "RelativeToolTip": "AppointmentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T06:18:28.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppointmentService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:17:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentService",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\AppointmentService.csproj",
+              "RelativeDocumentMoniker": "AppointmentService\\AppointmentService.csproj",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\AppointmentService.csproj*",
+              "RelativeToolTip": "AppointmentService\\AppointmentService.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T06:15:27.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Models\\Appointment.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentService\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:16:41.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Models\\Doctor.cs",
+              "ToolTip": "D:\\HCL\\TRail\\AppointmentService1\\AppointmentService\\Models\\Doctor.cs",
+              "RelativeToolTip": "AppointmentService\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:15:50.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
